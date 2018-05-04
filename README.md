@@ -1,7 +1,4 @@
-## Wordpress starter file for Squatch Creative
-Based off of HTML5 Blank
-Incorporating custom mods and RCNeil SPANcss Framework
+## ODC18WordpressTheme - 192 & Friends
+Wordpress Theme for the ODC18 Submission App - 192 & Friends
 
-***
-
-To view the original Wordpress theme by Todd Motto - [HTML5 Blank](http://html5blank.com)
+Demo Link - http://tempdump.com/Projects/ODC18/
